@@ -3,7 +3,7 @@ Proyecto de análisis y visualizaciones de datos elaborado en Power BI por medio
 Mi objetivo con este proyecto fue analizar la cobertura de los servicios de recolección de los residuos sólidos urbanos en México, así como la implementación de recolección selectiva y la infraestructura disponible a nivel municipal y estatal. 
 ## Dashboard 
 ### 1. Resumen ejecutivo
-![Resumen ejecutivo](imágenes/01-resumen-ejecutivo.jpeg)
+![Resumen ejecutivo](images/01-resumen-ejecutivo.jpeg)
 En esta página vemos una visión general de la recolección de residuos sólidos urbanos en México por medio de indicadores clave, análisis territorial y un mapa interactivo.
 Principales indicadores:
 114.3 millones de kg de residuos recolectados diariamente. 
@@ -13,7 +13,7 @@ Principales indicadores:
 222 municipios reportan recolección selectiva.
 1,816 centros de acopio reportados. 
 ### 2. Recolección y separación
-![Recolección y separación](imágenes/02-recoleccion-separacion.jpeg)
+![Recolección y separación](images/02-recoleccion-separacion.jpeg)
 Esta página analiza la disponibilidad municipal de los servicios relacionados con la gestión de residuos.
 Podemos ver:
 Disponibilidad del servicio de recolección.
@@ -21,7 +21,7 @@ Implementación de recolección selectiva.
 Disponibilidad de centros de acopio.
 Relación entre cobertura poblacional y cantidad de residuos recolectados. 
 ### 3. Infraestructura para el manejo de residuos 
-![Infraestructura](imágenes/03-infraestructura.jpeg)
+![Infraestructura](images/03-infraestructura.jpeg)
 Esta página profundiza en la infraestructura disponible para la gestión de residuos.
 Incluye: 
 Centros de acopio por entidad.
